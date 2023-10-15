@@ -2,6 +2,10 @@
 link do video:
 https://youtu.be/13wSkJUGkDQ
 
+Link do projeto em produção:
+http://18.117.105.135:8000
+ainda não tem um dominio
+
 No video deve erro de registro de usuario, esse ero ja vi arumado
 
 para fazer rodar o projeto:
